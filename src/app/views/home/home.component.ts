@@ -53,14 +53,12 @@ onSearch() {
   this.dataSource = this.jogos_array;
 }
 
-  //jogoProduto$: Observable<jogoProduto[]>;
   jogos_array: jogoProduto[] = [];
   displayedColumns: string[] = ['id', 'nome', 'preco', 'categoria', 'actions'];
   dataSource = this.jogos_array;
 
   constructor(
     private jogosService: JogosService,
-    //public _snackBar: MatSnackBar,
     private router: Router,
     private activatedRoute: ActivatedRoute,
 
