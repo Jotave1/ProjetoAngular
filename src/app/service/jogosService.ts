@@ -27,8 +27,6 @@ export class JogosService {
   );
   }
 
-    //public novoProdutoForm: FormGroup | nenhum;
-
     create(j: jogoProduto) {
       this.http.post(this.API_URL, j)
         .subscribe(
