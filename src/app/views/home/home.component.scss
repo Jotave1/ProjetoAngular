@@ -1,0 +1,55 @@
+table {
+    width: 100%;
+    background-color: rgb(250, 250, 250);
+    box-shadow: -1px 1px 15px rgb(190, 190, 190);
+  }
+
+th {
+    color: #101414;
+}
+
+td {
+    color: #101414;
+}
+
+.mat-icon {
+    color: #101414;
+}
+
+#BcreateContainer {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+#Bcreate {
+  color:white;
+  background-color: #101414;
+  text-align: top;
+  line-height: -500px;
+  width: 147px;
+  height: 50px;
+  border-radius: 7%;
+}
+#busca {
+  color:white;
+  background-color: #101414;
+  text-align: top;
+  line-height: -500px;
+  width: 147px;
+  height: 50px;
+  border-radius: 7%;
+}
+
+#mat-icon-create{
+  color: white;
+  line-height: 32px;
+}
+
+#mat-icon-search{
+  color: white;
+  line-height: 32px;
+}
+
+.container {
+    padding: 50px 80px;;
+}

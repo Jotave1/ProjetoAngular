@@ -1,0 +1,124 @@
+{
+  "jogos": [
+    {
+      "id": "2",
+      "nome": "Ticket to Ride",
+      "categoria": "Família",
+      "preco": 199.9
+    },
+    {
+      "id": "3",
+      "nome": "Pandemic",
+      "categoria": "Cooperativo",
+      "preco": 239.9
+    },
+    {
+      "id": "4",
+      "nome": "Dixit",
+      "categoria": "Criatividade",
+      "preco": 179.9
+    },
+    {
+      "id": "5",
+      "nome": "Carcassonne",
+      "categoria": "Estratégia",
+      "preco": 149.9
+    },
+    {
+      "id": "6",
+      "nome": "Splendor",
+      "categoria": "Família",
+      "preco": 159.9
+    },
+    {
+      "id": "7",
+      "nome": "Terraforming Mars",
+      "categoria": "Futurista",
+      "preco": 299.9
+    },
+    {
+      "id": "8",
+      "nome": "Azul",
+      "categoria": "Abstrato",
+      "preco": 199.9
+    },
+    {
+      "id": "9",
+      "nome": "Gloomhaven",
+      "categoria": "Aventura",
+      "preco": 499.9
+    },
+    {
+      "id": "10",
+      "nome": "7 Wonders",
+      "categoria": "Civilização",
+      "preco": 219.9
+    },
+    {
+      "id": "11",
+      "nome": "Scythe",
+      "categoria": "Estratégia",
+      "preco": 429.9
+    },
+    {
+      "id": "12",
+      "nome": "King of Tokyo",
+      "categoria": "Família",
+      "preco": 169.9
+    },
+    {
+      "id": "13",
+      "nome": "Root",
+      "categoria": "Aventura",
+      "preco": 349.9
+    },
+    {
+      "id": "14",
+      "nome": "The Crew",
+      "categoria": "Cooperativo",
+      "preco": 129.9
+    },
+    {
+      "id": "15",
+      "nome": "Wingspan",
+      "categoria": "Natureza",
+      "preco": 259.9
+    },
+    {
+      "id": "16",
+      "nome": "Mysterium",
+      "categoria": "Dedução",
+      "preco": 219.9
+    },
+    {
+      "id": "17",
+      "nome": "Zombicide",
+      "categoria": "Aventura",
+      "preco": 459.9
+    },
+    {
+      "id": "18",
+      "nome": "Patchwork",
+      "categoria": "Abstrato",
+      "preco": 129.9
+    },
+    {
+      "id": "19",
+      "nome": "Everdell",
+      "categoria": "Natureza",
+      "preco": 329.9
+    },
+    {
+      "id": "20",
+      "nome": "Codenames",
+      "categoria": "Dedução",
+      "preco": 99.9
+    },
+    {
+      "id": "21",
+      "nome": "teste",
+      "categoria": "teste",
+      "preco": 50
+    }
+  ]
+}
